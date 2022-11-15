@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**DamianBorndorff/DamianBorndorff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just an regular guy working as a Solution Expert | DevOps Engineer at [PlanB. GmbH](https://github.com/PlanBGmbH)
+<br />
+<br />
 
-Here are some ideas to get you started:
+### 🦺 Languages & Tools
+<img align="left" width="35x" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" width="35x" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img align="left" width="35x" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+
+<img align="left" width="35x" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="left" width="35x" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+          
+<img align="left" width="35x" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+
+<img align="left" width="35x" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<br />
+<br />
+<br />
+
+## 📊 Stats
+
+
+![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianBorndorff&show_icons=true&theme=gruvbox)
+
